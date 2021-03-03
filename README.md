@@ -53,7 +53,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </p>
 
-### Top Languajes
+### Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmuz55&layout=compact&theme=dark" alt="Kevin's Languajes" />
 </p>
