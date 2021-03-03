@@ -50,17 +50,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </p>
 
-<p align="center">
 ### Top Languajes
-  <a>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmuz55&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmuz55&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
 ### 🎧 Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kevinmuz55&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-</p>
 
 <!--
 **kevinmuz55/kevinmuz55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
