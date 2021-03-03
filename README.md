@@ -55,14 +55,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmuz55&layout=compact&theme=dark" alt="Kevin's Languajes" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmuz55&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🎧 Spotify Playing
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=kevinmuz55&cover_image=true&theme=default" alt="Kevin's Spotify" />
 </p>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kevinmuz55&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 <!--
 **kevinmuz55/kevinmuz55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
