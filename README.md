@@ -1,6 +1,7 @@
+[![Visits Badge](https://badges.pufler.dev/visits/kevinmuz55/kevinmuz55)](https://badges.pufler.dev/visits/kevinmuz55/kevinmuz55)
+
 ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  [![Visits Badge](https://badges.pufler.dev/visits/kevinmuz55/kevinmuz55)](https://badges.pufler.dev/visits/kevinmuz55/kevinmuz55)
-  
+
   - 🔭 I’m currently working as a Web Developer
   - 🌱 I’m currently learning Machine Learning
   - 💬 Ask me about working or multiplayer FPS gaming
@@ -9,6 +10,7 @@
   - ⚡ Fun fact: My name is an anagram of "I Play Data"
 -->
 ### 📫 Contact me:
+
 <p align="left">
 <a href="https://www.linkedin.com/in/kevin-muñoz-rengifo-4178501b0"> <img alt="Kevin's LinkdeIN" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /> </a>
 <a href="https://www.facebook.com/Kevinmuz55"> <img alt="Kevin's Facebook" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" /> </a>
