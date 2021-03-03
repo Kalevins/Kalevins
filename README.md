@@ -12,9 +12,6 @@
 <a href="https://www.instagram.com/kevinmu99">
   <img alt="Kevin's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
-<a href="https://open.spotify.com/user/kevinmuz55">
-  <img alt="Kevin's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
-</a>
 </p>
 
 ### Languages and Tools:
@@ -55,7 +52,9 @@
 
 <p align="center">
 ### Top Languajes
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmuz55&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmuz55&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  </a>
 </p>
 
 <p align="center">
