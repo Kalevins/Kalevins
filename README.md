@@ -5,6 +5,7 @@
 
 ### 🎧 Spotify Playing
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="kevinmuz55 Spotify Playing" width="350" />](https://open.spotify.com/user/kevinmuz55)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kevinmuz55&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=kevinmuz55&redirect=true)
 
 ### Top Languajes
