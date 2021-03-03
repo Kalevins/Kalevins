@@ -1,7 +1,14 @@
-### Hi, I am Kevin 👋
+### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
+  
+  - 🔭 I’m currently working as a Software Developer in Bengaluru, India
+  - 🌱 I’m currently learning Machine Learning and Big Data
+  - 💬 Ask me about multiplayer FPS gaming, chess and Tintin comics
+  - 😄 Pronouns: He / Him
+  - ⚡ Fun fact: My name is an anagram of "I Play Data"
 
-### Contact me:
-<p align="center">
+### 📫 Contact me:
+<p align="left">
 <br/>
 <a href="https://www.linkedin.com/in/kevin-muñoz-rengifo-4178501b0">
   <img alt="Kevin's LinkdeIN" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
@@ -14,7 +21,7 @@
 </a>
 </p>
 
-### Languages and Tools:
+### 👨🏻‍💻 Languages and Tools:
 
 <p align="center"> 
 <!-- PROGRAMING -->
