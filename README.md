@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kevin-muñoz-rengifo-4178501b0"> <img alt="Kevin's LinkdeIN" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /> </a>
 <a href="https://www.facebook.com/Kevinmuz55"> <img alt="Kevin's Facebook" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" /> </a>
-<a href="https://www.instagram.com/kevinmu99"> <img alt="Kevin's Instagram" width="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /> </a>
 <a href="https://steamcommunity.com/profiles/76561198075714144/"> <img alt="Kevin's Steam" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" /> </a>
 </p>
 
