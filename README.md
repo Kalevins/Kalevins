@@ -54,11 +54,9 @@
 </p>
 
 ### Top Languages
-<p align="center">
   <a href="https://github.com/kevinmuz55">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmuz55&layout=compact&theme=dark" alt="Kevin's Languages" />
   </a>
-</p>
 
 ### 🎧 Spotify Playing
 <p align="center">
