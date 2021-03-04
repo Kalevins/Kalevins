@@ -54,9 +54,9 @@
 </p>
 
 ### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmuz55&layout=compact&theme=dark)
 <p align="center">
   <a href="https://github.com/kevinmuz55">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmuz55&layout=compact&theme=dark)
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmuz55&layout=compact&theme=dark" alt="Kevin's Languages" />
   </a>
 </p>
