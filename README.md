@@ -62,7 +62,9 @@
 
 ### 🎧 Spotify Playing
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=kevinmuz55&cover_image=true&theme=default" alt="Kevin's Spotify" />
+  <a href="https://open.spotify.com/user/kevinmuz55?si=2339bc52b23e4541">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=kevinmuz55&cover_image=true&theme=default" alt="Kevin's Spotify" />
+  </a>
 </p>
 <!--
 **kevinmuz55/kevinmuz55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
