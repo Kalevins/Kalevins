@@ -58,7 +58,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmuz55&layout=compact&theme=dark" alt="Kevin's Languages" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmuz55&layout=compact&theme=dark" />
 </a>
   
 ### 🎧 Spotify Playing
