@@ -1,6 +1,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/kevinmuz55/kevinmuz55)](https://badges.pufler.dev/visits/kevinmuz55/kevinmuz55)
 
-### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="10px">
 
   - 🔭 I’m currently working as a Web Developer
   - 🌱 I’m currently learning Machine Learning
