@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/kevinmuz55/kevinmuz55)](https://badges.pufler.dev/visits/kevinmuz55/kevinmuz55)
+[![Visits Badge](https://badges.pufler.dev/visits/Kalevins/Kalevins)](https://badges.pufler.dev/visits/Kalevins/Kalevins)
 
 ### Hello World!
 
@@ -12,7 +12,7 @@
 ### 📫 Contact me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kevin-muñoz-rengifo-4178501b0"> <img alt="Kevin's LinkdeIN" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /> </a>
+  <a href="https://www.linkedin.com/in/kalevin"> <img alt="Kevin's LinkedIn" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /> </a>
   <a href="https://steamcommunity.com/profiles/76561198075714144/"> <img alt="Kevin's Steam" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" /> </a>
 </p>
 
@@ -62,7 +62,7 @@
 ### 🎧 Spotify Playing
 <p align="center">
   <a href="https://open.spotify.com/user/kevinmuz55?si=2339bc52b23e4541">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=kevinmuz55&cover_image=true&theme=default" alt="Kevin's Spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kevinmuz55&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff" alt="Kevin's Spotify" />
   </a>
 </p>
 <!--
