@@ -32,20 +32,8 @@
 
 ### 👨🏻‍💻 Languages and Tools:
 
-<!-- PROGRAMING -->
+<!-- Languages -->
 <p align="center">
-  <!-- React -->
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" t=mail />
-  </a>
-  <!-- Nextjs -->
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white" t=mail />
-  </a>
-  <!-- Angular -->
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white" t=mail />
-  </a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" t=mail />
@@ -62,14 +50,30 @@
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" t=mail />
   </a>
-  <!-- Opencv -->
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" t=mail />
+</p>
+
+<!-- Frameworks -->
+<p align="center">
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" t=mail />
   </a>
-  <!-- Redux -->
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" t=mail />
+  <!-- Angular -->
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white" t=mail />
   </a>
+  <!-- Nextjs -->
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white" t=mail />
+  </a>
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" t=mail />
+  </a>
+</p>
+
+<!-- Frontend -->
+<p align="center">
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" t=mail />
@@ -98,6 +102,22 @@
   <a href="https://ui.shadcn.com/" target="_blank">
     <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" t=mail />
   </a>
+</p>
+
+<!-- Libraries -->
+<p align="center">
+  <!-- Vite -->
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" t=mail />
+  </a>
+  <!-- Redux -->
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" t=mail />
+  </a>
+  <!-- Zustand -->
+  <a href="https://zustand.surge.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" t=mail />
+  </a>
   <!-- Chart.js -->
   <a href="https://www.chartjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" t=mail />
@@ -118,6 +138,22 @@
   <a href="https://reactrouter.com/" target="_blank">
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" t=mail />
   </a>
+  <!-- Opencv -->
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" t=mail />
+  </a>
+  <!-- Doxygen -->
+  <a href="https://www.doxygen.nl/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white" t=mail />
+  </a>
+</p>
+
+<!-- Backend -->
+<p align="center">
+  <!-- Express -->
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" t=mail />
+  </a>
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" t=mail />
@@ -125,10 +161,6 @@
   <!-- Supabase -->
   <a href="https://supabase.io/" target="_blank">
     <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" t=mail />
-  </a>
-  <!-- Express -->
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" t=mail />
   </a>
   <!-- Auth0 -->
   <a href="https://auth0.com/" target="_blank">
@@ -146,6 +178,10 @@
   <a href="https://www.apollographql.com/" target="_blank">
     <img src="https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" t=mail />
   </a>
+</p>
+
+<!-- QA -->
+<p align="center">
   <!-- OWASP ZAP -->
   <a href="https://www.zaproxy.org/" target="_blank">
     <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" t=mail />
@@ -154,10 +190,10 @@
   <a href="https://www.sonarqube.org/" target="_blank">
     <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" t=mail />
   </a>
-  <!-- Vite -->
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" t=mail />
-  </a>
+</p>
+
+<!-- Testing -->
+<p align="center">
   <!-- Vitest -->
   <a href="https://vitest.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" t=mail />
@@ -170,14 +206,14 @@
   <a href="https://mswjs.io/" target="_blank">
     <img src="https://img.shields.io/badge/MWS-000000?style=for-the-badge&logo=msw&logoColor=white" t=mail />
   </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" t=mail />
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" t=mail />
   </a>
-  <!-- Doxygen -->
-  <a href="https://www.doxygen.nl/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white" t=mail />
-  </a>
+</p>
+
+<!-- Operating Systems -->
+<p align="center">
   <!-- Windows -->
   <a href="https://www.microsoft.com/en-us/windows" target="_blank">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" t=mail />
@@ -186,6 +222,10 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" t=mail />
   </a>
+</p>
+
+<!-- Version Control -->
+<p align="center">
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" t=mail />
@@ -194,14 +234,18 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" t=mail />
   </a>
-  <!-- GithUB Copilot -->
-  <a href="https://copilot.github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" t=mail />
-  </a>
   <!-- Bitbucket -->
   <a href="https://bitbucket.org/" target="_blank">
     <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" t=mail />
   </a>
+  <!-- GithUB Copilot -->
+  <a href="https://copilot.github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" t=mail />
+  </a>
+</p>
+
+<!-- Cloud -->
+<p align="center">
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" t=mail />
@@ -222,10 +266,10 @@
   <a href="https://www.nginx.com/" target="_blank">
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" t=mail />
   </a>
-  <!-- Postman -->
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" t=mail />
-  </a>
+</p>
+
+<!-- Design -->
+<p align="center">
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" t=mail />
