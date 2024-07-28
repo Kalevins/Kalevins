@@ -226,7 +226,7 @@
   <a href="https://bitbucket.org/" target="_blank">
     <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" t=mail />
   </a>
-  <!-- GithUB Copilot -->
+  <!-- GitHub Copilot -->
   <a href="https://copilot.github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" t=mail />
   </a>
@@ -241,6 +241,10 @@
   <!-- Azure -->
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" t=mail />
+  </a>
+  <!-- Vercel -->
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" t=mail />
   </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank">
