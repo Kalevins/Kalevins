@@ -148,6 +148,26 @@
   </a>
 </p>
 
+<!-- Testing -->
+<p align="center">
+  <!-- Vitest -->
+  <a href="https://vitest.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" t=mail />
+  </a>
+  <!-- Jest -->
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" t=mail />
+  </a>
+  <!-- MWS -->
+  <a href="https://mswjs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/MWS-000000?style=for-the-badge&logo=msw&logoColor=white" t=mail />
+  </a>
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" t=mail />
+  </a>
+</p>
+
 <!-- Backend -->
 <p align="center">
   <!-- Express -->
@@ -192,38 +212,6 @@
   </a>
 </p>
 
-<!-- Testing -->
-<p align="center">
-  <!-- Vitest -->
-  <a href="https://vitest.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" t=mail />
-  </a>
-  <!-- Jest -->
-  <a href="https://jestjs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" t=mail />
-  </a>
-  <!-- MWS -->
-  <a href="https://mswjs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/MWS-000000?style=for-the-badge&logo=msw&logoColor=white" t=mail />
-  </a>
-  <!-- Postman -->
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" t=mail />
-  </a>
-</p>
-
-<!-- Operating Systems -->
-<p align="center">
-  <!-- Windows -->
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" t=mail />
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" t=mail />
-  </a>
-</p>
-
 <!-- Version Control -->
 <p align="center">
   <!-- Git -->
@@ -265,6 +253,18 @@
   <!-- Nginx -->
   <a href="https://www.nginx.com/" target="_blank">
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" t=mail />
+  </a>
+</p>
+
+<!-- Operating Systems -->
+<p align="center">
+  <!-- Windows -->
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" t=mail />
+  </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" t=mail />
   </a>
 </p>
 
