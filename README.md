@@ -98,6 +98,10 @@
   <a href="https://material-ui.com/" target="_blank">
     <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" t=mail />
   </a>
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" t=mail />
+  </a>
   <!-- Shadcn UI -->
   <a href="https://ui.shadcn.com/" target="_blank">
     <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" t=mail />
@@ -157,6 +161,10 @@
   <!-- Jest -->
   <a href="https://jestjs.io/" target="_blank">
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" t=mail />
+  </a>
+  <!-- Karma -->
+  <a href="https://karma-runner.github.io/latest/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Karma-61DAFB?style=for-the-badge&logo=karma&logoColor=white" t=mail />
   </a>
   <!-- MWS -->
   <a href="https://mswjs.io/" target="_blank">
@@ -245,6 +253,10 @@
   <!-- Vercel -->
   <a href="https://vercel.com/" target="_blank">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" t=mail />
+  </a>
+  <!-- GitHub Pages -->
+  <a href="https://pages.github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white" t=mail />
   </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank">
